@@ -1,0 +1,12 @@
+{
+  "name": "@noah/atlas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Event-sourced document store with optimistic concurrency, point-in-time replay and snapshots.",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
