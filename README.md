@@ -1,5 +1,7 @@
 # Atlas
 
+**Live demo:** https://atlas-5ppa.onrender.com/ (free hosting; the first load can take about 30 seconds while it wakes)
+
 An event-sourced document store: an append-only log per document, a fold that produces
 current state, point-in-time reconstruction, and optimistic concurrency so two writers cannot
 silently overwrite each other.
